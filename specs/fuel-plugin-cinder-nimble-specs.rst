@@ -11,7 +11,7 @@ Nimble Fuel Plugin for Cinder specification
 Overview
 ========
 
-The Nimble Fuel plugin for Cinder extends the Mirantis OpenStack capability by providing support for the Nimble Cinder Driver to enable Nimble arrays to be used for the Cinder backends. The plugin for MOS 9.x will support the iSCSI protocol for the Nimble Driver for the communication between the OpenStack cluster(s) and the Nimble Storage array. The plugin also allows users to define multiple backends, define a default volume type, and integrates with the features of the Nimble Storage array. 
+The Nimble Fuel plugin for Cinder extends the Mirantis OpenStack capability by providing support for the Nimble Cinder Driver to enable Nimble arrays to be used for Cinder backends. The plugin for MOS 9.x will support the iSCSI protocol for the Nimble Driver for the communication between the OpenStack cluster(s) and the Nimble Storage array. The plugin also allows users to define multiple backends, define a default volume type, and integrates with the features of the Nimble Storage array. 
 
 This repo contains all necessary files to build the Nimble Fuel Plugin for Cinder, as well as documentation that will provide information on how to use the plugin. 
 
